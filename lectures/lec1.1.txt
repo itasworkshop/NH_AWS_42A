@@ -1,0 +1,34 @@
+cloud computing 
+providing services as per demand, from anywhere and payment is only for the usage.
+
+Microsoft Azzure
+Amazon AWS --> one solution
+Google Cloud
+Alibaba cloud
+oracle, IBM
+
+Saas
+Paas
+Caas
+
+Server --> comparativley powerful machine which is responsible for entertaining request coming from client.
+client-server
+requesting-server is responding
+
+Lets start Lab for below tasks
+1. AWS Account Creation 
+2. Identifying various services in management console
+3. Identify various regions in management console
+4. IAM user creation
+5. IAM group creation with S3 full access permission
+
+
+
+
+
+
+
+
+
+
+
